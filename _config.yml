@@ -1,0 +1,6 @@
+﻿title: BlinkLedger
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
