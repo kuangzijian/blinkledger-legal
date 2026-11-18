@@ -2,7 +2,7 @@
 
 生效日期：2026 年 10 月 12 日
 
-BlinkLedger 由 16789412 Canada Inc（“我们”）发布。本政策说明你使用 BlinkLedger 应用时，你的信息会如何处理。简单地说：你的财务数据只保存在你的设备上。
+BlinkLedger 由 BlinkVector Technologies Inc.（“我们”）发布。本政策说明你使用 BlinkLedger 应用时，你的信息会如何处理。简单地说：你的财务数据只保存在你的设备上。
 
 ## 我们收集什么
 
@@ -16,6 +16,8 @@ BlinkLedger 由 16789412 Canada Inc（“我们”）发布。本政策说明你
 - 你附在交易上的照片保存在应用的私有存储中，随该交易一起删除。
 - 你导入的截图、照片、PDF 和 CSV 文件都在设备上读取。文字识别在 iPhone 上使用 Apple Vision，在 Android 上使用 Google ML Kit，均在设备本机运行。临时副本在处理后删除。
 - 分类和可选的 AI 助手都在设备上运行。在支持的 iPhone 上可能使用系统自带的本机 Apple Intelligence。你导入的内容不会发送给任何云端 AI 服务。
+- 语音输入是可选功能。当你按住麦克风按钮时，你的语音由手机的语音识别转成文字。在 iPhone 上，应用强制其在设备上运行。在 Android 上，手机有本机识别时就在本机完成；没有时，Android 可能把音频发送给 Google，由 Google 按你的 Google 账号设置处理，首次使用前应用会先询问你。BlinkLedger 不会录制、保存或发送音频，转出的文字与你手动输入的内容一样处理。首次使用时，应用会请求麦克风权限（iPhone 上还有语音识别权限）。
+- 如果你对 Siri 说“在 BlinkLedger 记一笔”来添加交易，你说的话由 Siri 按 Apple 的条款处理，BlinkLedger 只会收到转出的文字。应用打开时交易已填好，在你确认之前不会保存。
 
 ## 应用何时会联网
 

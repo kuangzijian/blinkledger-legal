@@ -2,7 +2,7 @@
 
 Effective date: October 12, 2026
 
-These terms are an agreement between you and 16789412 Canada Inc ("we", "us") for your use of the BlinkLedger app. By installing or using BlinkLedger you agree to them. If you do not agree, do not use the app.
+These terms are an agreement between you and BlinkVector Technologies Inc. ("we", "us") for your use of the BlinkLedger app. By installing or using BlinkLedger you agree to them. If you do not agree, do not use the app.
 
 ## License
 

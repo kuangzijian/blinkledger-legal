@@ -2,7 +2,7 @@
 
 Effective date: October 12, 2026
 
-BlinkLedger is published by 16789412 Canada Inc ("we", "us"). This policy explains what happens to your information when you use the BlinkLedger app. The short version: your financial data stays on your device.
+BlinkLedger is published by BlinkVector Technologies Inc. ("we", "us"). This policy explains what happens to your information when you use the BlinkLedger app. The short version: your financial data stays on your device.
 
 ## What we collect
 
@@ -16,6 +16,8 @@ We do not use advertising, analytics, or tracking tools, and we do not sell or s
 - Photos you attach to a transaction are stored in the app's private storage on your device and are deleted with that transaction.
 - Screenshots, photos, PDFs, and CSV files you import are read on your device. Text recognition uses Apple Vision on iPhone and Google ML Kit on Android, and both run on the device. Temporary copies are deleted after processing.
 - Categorization and the optional AI assistant run on your device. On supported iPhones the system's on-device Apple Intelligence may be used. Nothing you import is sent to a cloud AI service.
+- Voice input is optional. If you hold the microphone button, your speech is turned into text by your phone's speech recognizer. On iPhone the app forces this to run on the device. On Android it uses recognition on the phone when the phone has it; if not, Android may send the audio to Google, which handles it under your Google account settings, and the app asks you before the first use. BlinkLedger does not record, store, or send the audio, and the text is handled like anything else you type. The app asks for microphone permission (and speech-recognition permission on iPhone) the first time.
+- If you add a transaction by talking to Siri ("Add a transaction in BlinkLedger"), Siri handles what you say under Apple's terms and gives BlinkLedger only the resulting text. The app opens with the transaction filled in and saves nothing until you confirm.
 
 ## When the app uses the internet
 

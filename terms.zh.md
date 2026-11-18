@@ -2,7 +2,7 @@
 
 生效日期：2026 年 10 月 12 日
 
-本条款是你与 16789412 Canada Inc（“我们”）之间关于使用 BlinkLedger 应用的协议。安装或使用 BlinkLedger 即表示你同意本条款。如果你不同意，请不要使用本应用。
+本条款是你与 BlinkVector Technologies Inc.（“我们”）之间关于使用 BlinkLedger 应用的协议。安装或使用 BlinkLedger 即表示你同意本条款。如果你不同意，请不要使用本应用。
 
 ## 许可
 
